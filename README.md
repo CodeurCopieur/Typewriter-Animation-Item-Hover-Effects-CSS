@@ -1,1 +1,1 @@
-# -Typewriter-Animation-Menu-Item-Hover-Effects-CSS
+# Typewriter Animation Menu Item Hover Effects CSS
